@@ -1,0 +1,58 @@
+# 📚 PersonalLearningPro – AI-Powered Personalized Learning Platform
+
+> Revolutionizing education through adaptive, intelligent, and personalized learning experiences powered by AI.
+
+---
+
+## 🎯 Overview
+
+**PersonalLearningPro** is a full-stack web application designed to deliver tailored educational content using AI. It customizes learning experiences based on each student's pace, style, and performance using dynamic quiz generation and feedback systems.
+
+---
+
+## 🌟 Key Features
+
+- 🎓 **Adaptive Learning Paths** – Adjusts to the user's learning pace and style.
+- 💬 **AI-Generated Questions** – Uses OpenAI (GPT) to create dynamic and context-aware quizzes.
+- 📊 **Progress Tracking** – Visual dashboards for learners and educators.
+- 👨‍🏫 **Teacher & Student Portals** – Separate interfaces for managing and analyzing learning.
+- 🔒 **Secure Authentication** – User registration, login, and role-based access.
+
+---
+
+## 🛠️ Tech Stack
+
+| Layer         | Technology                        |
+|---------------|------------------------------------|
+| Frontend      | React.js, Tailwind CSS, Vite       |
+| Backend       | Node.js, Express.js, TypeScript    |
+| AI Integration| OpenAI GPT API                     |
+| Database      | Firebase or MongoDB                |
+| Hosting       | Vercel (Frontend), Render (Backend)|
+| Dev Tools     | Git, VS Code, Postman              |
+
+---
+
+## 🚀 Getting Started
+
+### 🔧 Prerequisites
+- Node.js >= 18
+- Git
+- OpenAI API key (for GPT features)
+
+### 📦 Installation
+
+```bash
+# Clone the repository
+git clone https://github.com/<your-username>/PersonalLearningPro.git
+cd PersonalLearningPro
+
+# Install dependencies
+npm install
+
+# Run development server
+npm run dev
+
+
+
+ Then visit: http://localhost:5000
